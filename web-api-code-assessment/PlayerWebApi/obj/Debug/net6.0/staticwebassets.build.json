@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i7bMsMJRTV7AD6eFeBpyGyuPugmyAPlL5qSaySbwaLk=",
+  "Source": "PlayerWebApi",
+  "BasePath": "_content/PlayerWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

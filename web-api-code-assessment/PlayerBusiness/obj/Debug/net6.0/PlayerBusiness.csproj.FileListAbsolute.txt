@@ -1,0 +1,12 @@
+C:\Users\Sebastian Martinez\source\repos\web-api-code-assessment\PlayerBusiness\bin\Debug\net6.0\PlayerBusiness.deps.json
+C:\Users\Sebastian Martinez\source\repos\web-api-code-assessment\PlayerBusiness\bin\Debug\net6.0\PlayerBusiness.dll
+C:\Users\Sebastian Martinez\source\repos\web-api-code-assessment\PlayerBusiness\bin\Debug\net6.0\PlayerBusiness.pdb
+C:\Users\Sebastian Martinez\source\repos\web-api-code-assessment\PlayerBusiness\obj\Debug\net6.0\PlayerBusiness.csproj.AssemblyReference.cache
+C:\Users\Sebastian Martinez\source\repos\web-api-code-assessment\PlayerBusiness\obj\Debug\net6.0\PlayerBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Martinez\source\repos\web-api-code-assessment\PlayerBusiness\obj\Debug\net6.0\PlayerBusiness.AssemblyInfoInputs.cache
+C:\Users\Sebastian Martinez\source\repos\web-api-code-assessment\PlayerBusiness\obj\Debug\net6.0\PlayerBusiness.AssemblyInfo.cs
+C:\Users\Sebastian Martinez\source\repos\web-api-code-assessment\PlayerBusiness\obj\Debug\net6.0\PlayerBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Martinez\source\repos\web-api-code-assessment\PlayerBusiness\obj\Debug\net6.0\PlayerBusiness.dll
+C:\Users\Sebastian Martinez\source\repos\web-api-code-assessment\PlayerBusiness\obj\Debug\net6.0\refint\PlayerBusiness.dll
+C:\Users\Sebastian Martinez\source\repos\web-api-code-assessment\PlayerBusiness\obj\Debug\net6.0\PlayerBusiness.pdb
+C:\Users\Sebastian Martinez\source\repos\web-api-code-assessment\PlayerBusiness\obj\Debug\net6.0\ref\PlayerBusiness.dll
