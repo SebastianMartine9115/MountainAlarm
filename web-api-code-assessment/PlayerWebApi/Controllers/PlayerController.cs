@@ -39,7 +39,7 @@ public class PlayerController : ControllerBase
         {
             return Ok(await _dbContext.Players.Include(x => x.PlayerSkills).ToListAsync());
         }
-        catch (Exception ex)
+        catch
         {
             throw;
         }
@@ -52,7 +52,7 @@ public class PlayerController : ControllerBase
         {
             return Ok(await _dbContext.Players.Include(x => x.PlayerSkills).FirstOrDefaultAsync(x => x.Id == id));
         }
-        catch (Exception ex)
+        catch
         {
             throw;
         }
@@ -67,7 +67,7 @@ public class PlayerController : ControllerBase
             await _dbContext.SaveChangesAsync();
             return Ok(await _dbContext.Players.FindAsync(player.Id));
         }
-        catch (Exception ex)
+        catch
         {
             throw;
         }
@@ -87,7 +87,7 @@ public class PlayerController : ControllerBase
 
             return Ok(player);
         }
-        catch (Exception ex)
+        catch
         {
             throw;
         }
@@ -102,7 +102,7 @@ public class PlayerController : ControllerBase
             await _dbContext.SaveChangesAsync();
             return Ok();
         }
-        catch (Exception ex)
+        catch
         {
             throw;
         }
