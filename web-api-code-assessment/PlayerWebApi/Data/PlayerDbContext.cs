@@ -57,11 +57,11 @@ public class Validate : ValidationAttribute
             var skill = validationContext.ObjectInstance.GetType().GetProperty("Skill").GetValue(validationContext.ObjectInstance);
 
             ErrorMessage = $"Invalid value for player skill '{skill}' : {skillValue}";
+            
             if (AllowableStringValues.Contains(value.ToString()) && (skillValue is >= 1 and <= 99))
                 return ValidationResult.Success;
         }
-
-       
+        
         return new ValidationResult(ErrorMessage);
     }
 }
